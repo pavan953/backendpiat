@@ -1,9 +1,6 @@
 flask
 opencv-python
 face_recognition
-os
 numpy
-datetime
-sys
-sqlite3
+smtplib
 Flask-Mail
