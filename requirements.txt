@@ -3,5 +3,4 @@ opencv-python
 face_recognition
 numpy
 datetime
-sqlite3
 Flask-Mail
