@@ -1,0 +1,10 @@
+flask
+cv2
+face_recognition
+subprocess
+signal
+os
+numpy
+datetime
+sys
+sqlite3
