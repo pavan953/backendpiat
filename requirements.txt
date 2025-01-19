@@ -1,7 +1,6 @@
 flask
 opencv-python
 face_recognition
-signal
 os
 numpy
 datetime
