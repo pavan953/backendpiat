@@ -2,5 +2,4 @@ flask
 opencv-python
 face_recognition
 numpy
-smtplib
 Flask-Mail
